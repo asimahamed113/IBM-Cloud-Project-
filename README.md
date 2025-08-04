@@ -1,4 +1,4 @@
-College Admission Agent (RAG-Based AI)
+# College Admission Agent (RAG-Based AI)
 
 Overview
 
